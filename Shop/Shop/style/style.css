@@ -1,0 +1,53 @@
+﻿body {
+    background-color: darkgray;
+    margin: 0 auto;
+}
+.header{
+    color:yellow;
+    font-size:100px;
+}
+.container{
+    width:80%;
+    margin:0 auto;
+    text-align:center;
+}
+*{
+    margin:0 auto;
+}
+.buttonMain {
+    background-color: darkgray;
+}
+    .buttonMain:hover {
+        cursor: pointer;
+        color: yellow;
+    }
+.polecane {
+    border-radius: 50px 50px 50px 50px;
+}
+.loginBody {
+    background-color: darkgray;
+}
+.tytulPol {
+    font-weight: bold;
+    color: yellow;
+    font-size:20px;
+    width:150px;
+}
+.menu {
+    color: black;
+    text-decoration: none;
+    font-size: 25px;
+    margin: 0px 30px;
+    background-color: darkgray;
+    border: none;
+}
+    .menu:hover {
+        color: yellow;
+        cursor: pointer;
+    }
+.loginError {
+    color: red;
+}
+.itemCell{
+    padding:20px 30px;
+}

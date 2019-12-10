@@ -1,0 +1,307 @@
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\Shop.dll.config
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\Shop.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\Shop.pdb
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\csc.exe
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\csc.exe.config
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\csc.rsp
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\csi.exe
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\csi.exe.config
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\csi.rsp
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\System.AppContext.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\System.Console.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\vbc.exe
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\vbc.exe.config
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\vbc.rsp
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\MySql.Data.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\MySql.Web.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\Google.Protobuf.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\MySql.Data.xml
+C:\Users\Wiktor\source\repos\Shop\Shop\bin\MySql.Web.xml
+C:\Users\Wiktor\source\repos\Shop\Shop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+C:\Users\Wiktor\source\repos\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\source\repos\Shop\Shop\obj\Debug\Shop.csproj.CopyComplete
+C:\Users\Wiktor\source\repos\Shop\Shop\obj\Debug\Shop.dll
+C:\Users\Wiktor\source\repos\Shop\Shop\obj\Debug\Shop.pdb
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\Shop.dll.config
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\Shop.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\Shop.pdb
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\csc.exe
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\csc.exe.config
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\csc.rsp
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\csi.exe
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\csi.exe.config
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\csi.rsp
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\System.AppContext.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\System.Collections.Immutable.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\System.Console.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\System.Diagnostics.Process.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\System.IO.Compression.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\System.IO.FileSystem.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\System.IO.Pipes.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\System.Reflection.Metadata.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\System.Security.AccessControl.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\System.Security.Claims.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\System.Security.Principal.Windows.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\System.Threading.Thread.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\System.ValueTuple.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\System.Xml.XmlDocument.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\System.Xml.XPath.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\vbc.exe
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\vbc.exe.config
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\vbc.rsp
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\VBCSCompiler.exe
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\roslyn\VBCSCompiler.exe.config
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\MySql.Data.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\MySql.Web.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\Google.Protobuf.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\MySql.Data.xml
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\bin\MySql.Web.xml
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\obj\Debug\Shop.csproj.CopyComplete
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\obj\Debug\Shop.dll
+E:\klasa 4\AS\PK\MusicShop - done\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\Shop.dll.config
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\Shop.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\Shop.pdb
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\csc.exe
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\csc.rsp
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\csi.exe
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\csi.exe.config
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\csi.rsp
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\System.Console.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\vbc.exe
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\Google.Protobuf.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\MySql.Data.xml
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\bin\MySql.Web.xml
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\obj\Debug\Shop.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\obj\Debug\Shop.dll
+C:\Users\Lenovo\Desktop\gówno\MusicShop - done\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\Shop.dll.config
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\Shop.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\Shop.pdb
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\csc.exe
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\csc.rsp
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\csi.exe
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\csi.exe.config
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\csi.rsp
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Console.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\vbc.exe
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\Google.Protobuf.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\MySql.Data.xml
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\bin\MySql.Web.xml
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\obj\Debug\Shop.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\obj\Debug\Shop.dll
+C:\Users\Lenovo\Desktop\gówno\Sklep_muzyczny\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\Shop.dll.config
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\Shop.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\Shop.pdb
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\csc.exe
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\csc.exe.config
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\csc.rsp
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\csi.exe
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\csi.exe.config
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\csi.rsp
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Console.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\vbc.exe
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\vbc.exe.config
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\vbc.rsp
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\Google.Protobuf.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\MySql.Data.xml
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\bin\MySql.Web.xml
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\obj\Debug\Shop.csproj.CopyComplete
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\obj\Debug\Shop.dll
+C:\Users\Dell\Desktop\Sklep_muzyczny\Shop\Shop\obj\Debug\Shop.pdb
